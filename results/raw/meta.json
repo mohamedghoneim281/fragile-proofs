@@ -1,0 +1,26 @@
+{
+ "solver_id": "z3[Z3 version 4.12.2 - 64 bit]",
+ "solver_kind": "z3",
+ "solver_binary": "~/fragile-proofs/.venv/bin/z3",
+ "timeout_s": 10.0,
+ "base_seed": 0,
+ "success_mode": "unsat",
+ "rlimit": 0,
+ "mem_mb": 3000,
+ "families": [
+  "rename",
+  "shuffle",
+  "reseed"
+ ],
+ "variants_per_family": 10,
+ "control_repeats": 3,
+ "synthetic": false,
+ "host": {
+  "platform": "Linux-6.8.0-147-generic-x86_64-with-glibc2.39",
+  "python": "3.12.3",
+  "cpu": "AMD Ryzen 7 6800H with Radeon Graphics",
+  "cores": 16
+ },
+ "command": "~/fragile-proofs/fragile/__main__.py collect --queries ~/mariposa-data/benchmarks --manifest data_mariposa/manifest.csv --out runs/main --per-project 60 --workers 4 --timeout 10 --mem-mb 3000 --max-hours 12 --retry-errors",
+ "created": "2026-10-20 18:28:18"
+}

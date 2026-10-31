@@ -1,0 +1,8 @@
+folder: runs/main
+solver: z3[Z3 version 4.12.2 - 64 bit]   timeout: 10.0 s   families: ['rename', 'shuffle', 'reseed'] x 10
+queries in manifest: 268   runs recorded: 8745
+outcomes (repeat 0): memout=1, timeout=2353, unknown=246, unsat=5608
+total solver cost: 9.76 CPU hours (timeouts charged in full)
+machine load while measuring: median 4.0, p95 4.1 (keep this below the number of workers + 1; high values add noise)
+noise controls: 268 queries re-run unchanged; 4 changed outcome with IDENTICAL input; median runtime spread 0.05070765016822199
+complete queries: 268/268

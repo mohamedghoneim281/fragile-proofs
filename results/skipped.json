@@ -1,0 +1,6 @@
+[
+ {
+  "qid": "stable_core/d_fvbkv-Impl-MainHandlers.i.dfy.CheckWellformed__MainHandlers.__default.InitState.smt2",
+  "reason": "larger than --max-mb (23.1 MB)"
+ }
+]

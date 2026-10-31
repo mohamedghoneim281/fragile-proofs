@@ -1,0 +1,902 @@
+[
+ {
+  "query": "unstable_ext/fs_vwasm-compiler-common-queries-Compiler.Common.Dataflow-41.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:1",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-lib-Base-total_order.i.dfy.Impl__Total__Preorder.__default.ExistsBiggestInSet.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:4",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Base-Multisets.i.dfy.Impl__Multisets.__default.FoldSeqRemove.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:4",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_core/d_lvbkv-lib-Base-total_order_impl.i.dfy.Impl__Total__Order__Impl.__default.ArrayLargestLtePlus1Linear.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:1",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-lib-Base-total_order_impl.i.dfy.Impl__Total__Order__Impl.__default.ArrayLargestLtePlus1.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_core/d_fvbkv-lib-DataStructures-MutableBtree.i.dfy.Impl__MutableBtree.__default.SubReprLowerBound.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "shuffle:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/fs_vwasm-compiler-sandbox-queries-Compiler.Sandbox-264.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Buckets-BucketWeights.i.dfy.Impl__BucketWeights.__default.WeightBucketListItemFlush.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:6",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "stable_ext/d_lvbkv-lib-Base-Multisets.i.dfy.Impl__Multisets.__default.ApplySeq.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:4",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Marshalling-GenericMarshalling.i.dfy.Impl__GenericMarshalling.__default.MarshallByteArray.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "shuffle:2",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_core/d_fvbkv-lib-Marshalling-Math.i.dfy.Impl__Math.__default.lemma__2toX.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "shuffle:5",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-lib-Checksums-CRC32C_Lut.i.dfy.Impl__CRC32C__Lut.__default.reverse__p.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "shuffle:6",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_core/d_komodo-verified-sha-sha256.i.dfyImpl___module.__default.lemma__SHA256FinalHelper1.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:5",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_core/d_fvbkv-lib-Marshalling-GenericMarshalling.i.dfy.Impl__GenericMarshalling.__default.MarshallArray.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "stable_ext/d_fvbkv-Betree-BetreeInv.i.dfy.Impl__BetreeInv.__default.RedirectResultingGraphAfterAllocs.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:6",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Marshalling-GenericMarshalling.i.dfy.Impl__GenericMarshalling.__default.MarshallArrayContents.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:9",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-Impl-JournalistMarshallingModel.i.dfy.Impl__JournalistMarshallingModel.__default.lemma__writeJournalEntries.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "reseed:7",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": 1132268956
+  }
+ },
+ {
+  "query": "unstable_core/d_fvbkv-Impl-JournalistModel.i.dfy.CheckWellformed__JournalistModel.__default.append.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "reseed:5",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": 1003400849
+  }
+ },
+ {
+  "query": "unstable_ext/fs_vwasm-compiler-common-queries-Compiler.Common.Dataflow-40.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:3",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Buckets-BucketModel.i.dfy.Impl__BucketModel.__default.mergeToOneOneChild__eq__BucketList.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:1",
+   "recorded": "unknown",
+   "reruns": [
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown",
+    "unknown"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_core/d_fvbkv-lib-Base-BitsetLemmas.i.dfy.Impl__BitsetLemmas.__default.set__bit__to__0__self__uint64.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:3",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-lib-Marshalling-Util.i.dfy.Impl__Common____Util__i.__default.seqIntoArrayOpt.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "shuffle:1",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "stable_ext/d_lvbkv-lib-Marshalling-Util.i.dfy.Impl__Common____Util__i.__default.seqIntoArrayChar.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "shuffle:7",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "stable_ext/d_fvbkv-lib-Base-sequences.i.dfy.Impl__Sequences.__default.FlattenAdditive.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:5",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Buckets-PackedStringArray.i.dfy.Impl__PackedStringArray.__default.psaAppendIAppend.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:2",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-lib-Buckets-BucketWeights.i.dfy.Impl__BucketWeights.__default.WeightSplitBucketAdditive.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:1",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-Impl-JournalistMarshallingModel.i.dfy.Impl__JournalistMarshallingModel.__default.parsesFromStuff.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:0",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_lvbkv-lib-Buckets-BucketsLib.i.dfy.Impl__BucketsLib.__default.WFSplitBucketListRight.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:3",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "stable_ext/d_lvbkv-lib-Buckets-PackedKV.i.dfy.CheckWellformed__PackedKV.__default.LastKey.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:4",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ },
+ {
+  "query": "unstable_ext/d_fvbkv-lib-Marshalling-Math.i.dfy.Impl__Math.__default.lemma__div__multiples__vanish__fancy.smt2",
+  "confirmed": true,
+  "a": {
+   "variant": "orig:0",
+   "recorded": "unsat",
+   "reruns": [
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat",
+    "unsat"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  },
+  "b": {
+   "variant": "rename:5",
+   "recorded": "timeout",
+   "reruns": [
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout",
+    "timeout"
+   ],
+   "reproduced_frac": 1.0,
+   "seed": null
+  }
+ }
+]

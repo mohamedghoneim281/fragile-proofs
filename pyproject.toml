@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fragile-proofs"
+version = "0.1.0"
+description = "Budget-aware detection of fragile (unstable) SMT proofs: variant generation, measurement, allocation strategies and replay evaluation."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Mohamed Ghoneim" }]
+dependencies = ["numpy>=1.22", "matplotlib>=3.5"]
+keywords = ["SMT", "Z3", "proof stability", "verification", "Mariposa", "instability"]
+
+[project.optional-dependencies]
+z3 = ["z3-solver==4.12.2.0"]
+
+[project.scripts]
+fragile = "fragile.cli:main"
+
+[tool.setuptools]
+packages = ["fragile"]
