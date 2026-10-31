@@ -179,7 +179,6 @@ Please cite the repository using [`CITATION.cff`](CITATION.cff) (GitHub's "Cite 
 
 [MIT](LICENSE). The Mariposa queries are not part of this repository.
 
-## Acknowledgments and AI-assistance statement
+## Acknowledgments
 
-The software and the first drafts of the report and this documentation were produced with the assistance of an AI system (Claude, Anthropic). All experiments were executed by the author on his own hardware, and the author is responsible for the content of this repository.
 Thanks to the authors of Mariposa for releasing their tool and benchmark.
